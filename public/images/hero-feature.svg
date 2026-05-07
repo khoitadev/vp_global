@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#FCFAF5"/>
+      <stop offset="100%" stop-color="#E5DCC9"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <ellipse cx="280" cy="320" rx="320" ry="280" fill="#C7D1E5" opacity="0.6"/>
+    <ellipse cx="960" cy="900" rx="360" ry="280" fill="#E5C9A8" opacity="0.55"/>
+    <ellipse cx="600" cy="600" rx="260" ry="200" fill="#9AAEE0" opacity="0.32"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" text-anchor="middle">
+    <text x="600" y="540" font-size="28" font-weight="500" fill="#6B7385" letter-spacing="6">HERO FEATURE</text>
+    <text x="600" y="660" font-size="120" font-weight="700" fill="#0E1426">1200 &#215; 1200</text>
+    <text x="600" y="722" font-size="28" font-weight="500" fill="#6B7385">Aspect ratio 1:1 &#183; WebP recommended</text>
+    <text x="600" y="775" font-size="22" font-weight="400" fill="#8B8E97">Replace at /public/images/hero-feature.{webp|jpg}</text>
+  </g>
+</svg>

@@ -1,0 +1,481 @@
+{
+  "ui": {
+    "brand": "VP Global",
+    "nav": {
+      "ariaLabel": "주요 내비게이션",
+      "about": "회사 소개",
+      "services": "제조 역량",
+      "process": "협업 프로세스",
+      "projects": "프로젝트",
+      "contact": "문의"
+    },
+    "localeLabel": {
+      "vi": "Tiếng Việt",
+      "ko": "한국어"
+    },
+    "localeSwitcher": {
+      "label": "언어",
+      "menuLabel": "표시 언어 선택",
+      "currentLabel": "현재 언어",
+      "vi": "VI",
+      "ko": "KO"
+    },
+    "themeSwitcher": {
+      "label": "테마",
+      "menuLabel": "테마 선택",
+      "currentLabel": "현재",
+      "system": "시스템 설정",
+      "light": "라이트 모드",
+      "dark": "다크 모드"
+    },
+    "footer": {
+      "tagline": "베트남 박닌 거점의 B2B end-to-end 제조 파트너 – 전자, 에너지, 산업 장비 부품 분야.",
+      "quickLinksTitle": "빠른 링크",
+      "contactTitle": "연락처",
+      "factsTitle": "운영 역량",
+      "capabilitiesTitle": "핵심 역량",
+      "capabilities": [
+        "CNC & Mold",
+        "알루미늄 압출 1,350 톤",
+        "엔지니어링 사출",
+        "프레스 60–300 톤",
+        "코팅 & 조립"
+      ],
+      "quickLinks": [
+        { "href": "#about", "label": "회사 소개" },
+        { "href": "#services", "label": "제조 역량" },
+        { "href": "#process", "label": "협업 프로세스" },
+        { "href": "#projects", "label": "주요 프로젝트" },
+        { "href": "#contact", "label": "문의" }
+      ],
+      "facts": [
+        { "label": "설립", "value": "2020" },
+        { "label": "팀 규모", "value": "25명+" },
+        { "label": "CNC 스핀들", "value": "138개+" },
+        { "label": "Press 라인", "value": "60–300 톤" }
+      ],
+      "address": "Hap Linh Industrial Cluster, Bac Ninh, Vietnam",
+      "addressLabel": "주소",
+      "emailLabel": "이메일",
+      "emailValue": "vpglobal0201@gmail.com",
+      "phoneLabel": "핫라인",
+      "phoneValue": "0972 011 307",
+      "ceoLabel": "대표이사",
+      "ceoValue": "조성우 (Jo Sung Woo)",
+      "vnContactLabel": "베트남 담당자",
+      "vnContactValue": "Ms. Thuong",
+      "copyright": "© 2026 VP GLOBAL CO., LTD. - ESS 및 CNC 제품 홍보"
+    }
+  },
+  "meta": {
+    "title": "VP Global | 베트남 B2B 제조 파트너 – CNC, 알루미늄 압출, 사출, 조립",
+    "description": "VP Global은 베트남 박닌 거점에서 102 스핀들 CNC, 1,350톤 알루미늄 압출, 엔지니어링 사출, 60–300톤 프레스, 조립 및 정밀 측정까지 통합 제공하는 OEM/ODM 제조 파트너입니다."
+  },
+  "landing": {
+    "hero": {
+      "badge": "Design – Development – Manufacturing",
+      "title": "기술 설계부터 안정적 양산까지 이어지는 베트남 B2B 제조 파트너",
+      "description": "VP Global은 CNC, 알루미늄 압출, 엔지니어링 사출, 프레스, 코팅, 조립을 통합 운영하는 베트남 박닌 거점의 OEM/ODM 제조 기업입니다. 전자, 에너지, 산업 장비 부품을 중심으로 협업합니다.",
+      "primaryCta": "견적 요청하기",
+      "secondaryCta": "제조 역량 보기",
+      "trustNote": "2020년 설립 · Samsung SDI, Boca USA, AM Telecom, TZ Hi-tech 협력",
+      "highlights": [
+        "샘플 – 파일럿 – 양산까지 단계별 협업 체계 운영",
+        "베트남–한국 협업 기반의 프로젝트 직접 대응",
+        "한 공장 안에서 8가지 이상의 핵심 공정 통합 운영",
+        "Vision inspection과 3D 측정으로 품질 일관성 확보"
+      ],
+      "stats": [
+        { "label": "CNC 가공 스핀들", "value": "138개+" },
+        { "label": "프레스 라인 용량", "value": "60–300 톤" },
+        { "label": "사출 생산량", "value": "월 3,500톤+" }
+      ],
+      "featureImage": "/images/hero-feature.svg",
+      "featureImageAlt": "VP Global 박닌 공장 전경 – CNC, 알루미늄 압출, 사출, 조립을 통합 운영",
+      "featureImageCaption": "박닌 Hap Linh 공장 — 8개 이상의 핵심 공정 그룹을 1일 20시간 운영합니다."
+    },
+    "about": {
+      "title": "VP Global 소개",
+      "description": "VP Global은 2020년 소재 사업에서 출발해 베트남 박닌 Hap Linh Industrial Cluster를 거점으로 다중 공정 개발·제조 기업으로 성장했습니다. 한국 및 글로벌 OEM/ODM 고객과 협업합니다.",
+      "facilityImage": "/images/about-facility.svg",
+      "facilityImageAlt": "베트남 박닌 Hap Linh Industrial Cluster의 VP Global 공장",
+      "facilityCaption": "베트남 박닌 Hap Linh Industrial Cluster",
+      "teamImage": "/images/team.svg",
+      "teamImageAlt": "VP Global 운영 팀 – 한-베 협업 기반의 기술·생산·관리 인력",
+      "highlights": [
+        "설계 – 개발 – 양산까지 폐쇄형 운영으로 NPI 사이클을 단축합니다.",
+        "금속, 엔지니어링 플라스틱, 조립 모듈, 정밀 부품군을 중심으로 운영합니다.",
+        "베트남-한국 협업 인력으로 기술-영업-물류까지 일관 대응합니다.",
+        "2025년까지 CNC와 측정 장비 확장 투자 로드맵을 운영하고 있습니다.",
+        "장기 품질 약속에 따라 측정 인프라와 vision inspection에 지속 투자합니다."
+      ],
+      "facts": [
+        { "label": "운영 거점", "value": "Hap Linh Industrial Cluster, 박닌" },
+        { "label": "지원 방식", "value": "기술 + 상업 협업" },
+        { "label": "프로젝트 범위", "value": "기술 부품 및 조립 모듈" },
+        { "label": "운영 시간", "value": "1일 20시간 · 주 6일" },
+        { "label": "사용 언어", "value": "베트남어 – 한국어 – 영어" }
+      ],
+      "byTheNumbers": {
+        "title": "운영 규모",
+        "description": "엔지니어 – 생산 – 품질 비율을 균형 있게 유지해 빠른 응답 속도를 확보합니다.",
+        "items": [
+          { "label": "총 인원", "value": "25명+", "note": "한국 + 현지" },
+          { "label": "한국인 매니저", "value": "3명", "note": "QC + 생산 + 영업" },
+          { "label": "QC + 생산", "value": "28명", "note": "1일 20시간 운영" },
+          { "label": "영업 + 회계", "value": "10명", "note": "한국어 대응 가능" }
+        ]
+      },
+      "missionVision": {
+        "label": "장기 방향성",
+        "missionTitle": "미션",
+        "missionBody": "베트남 거점에서 한국 및 글로벌 기업의 신뢰할 수 있는 제조 파트너가 되는 것 – 설계·개발·양산을 하나의 시스템으로 연결해 NPI 사이클을 단축하고, 모든 발주 건에 대해 품질의 일관성을 보장합니다.",
+        "visionTitle": "비전",
+        "visionBody": "2027년까지 CNC 역량을 200축 이상으로 확장하고, 복잡한 정밀 부품을 위한 설계 – 생산 – 품질 통합 체인을 완성하여 동남아 ESS·통신·산업장비 프로젝트의 1순위 파트너로 자리매김합니다.",
+        "valuesTitle": "핵심 가치",
+        "values": [
+          { "title": "한 지붕 아래 다공정 운영", "description": "8개 이상의 핵심 공정 그룹이 동일 공장 내에서 동기화되어 운영됩니다." },
+          { "title": "기술 우선의 사전 검토", "description": "DFM과 공정 검토를 견적 단계부터 함께 진행해 후공정 리스크를 줄입니다." },
+          { "title": "한-베 협업 기반의 빠른 응답", "description": "한국인 매니저가 직접 배치되어 커뮤니케이션 장벽을 최소화합니다." },
+          { "title": "로드맵 기반의 투자", "description": "CNC, 측정, 소재 역량을 장기 약속에 따라 단계적으로 확장합니다." }
+        ]
+      },
+      "timeline": [
+        {
+          "year": "2020",
+          "title": "사업 시작",
+          "event": "기초 소재 분야에서 ETF 스타트업으로 출발하며 제조 생태계의 기반을 마련했습니다."
+        },
+        {
+          "year": "2022",
+          "title": "알루미늄·조립 역량 확대",
+          "event": "알루미늄 기업 Yuwon과 베트남 조립 기업 Suntech가 VP Global에 투자."
+        },
+        {
+          "year": "2023",
+          "title": "글로벌 고객 확장",
+          "event": "AM Telecom 5G 리시버, Boca USA adapter box용 알루미늄 부품 확대."
+        },
+        {
+          "year": "2024",
+          "title": "Samsung 벤더 확장",
+          "event": "Samsung 벤더용 핵심 부품 비중 확대 및 HK 신규 투자 유치."
+        },
+        {
+          "year": "2025",
+          "title": "사업 다변화",
+          "event": "Seokwang Electric 지분 참여, camera jig 프로젝트 준비 및 전자 테이프 사업 다변화."
+        }
+      ]
+    },
+    "services": {
+      "title": "통합 제조 역량",
+      "description": "다공정 통합 공장 운영으로 리드타임 단축, 다중 공급사 조정 비용 절감, 프로젝트별 품질 일관성 확보가 가능합니다.",
+      "footnote": "프로젝트에 따라 단일 공정 또는 end-to-end 통합 패키지를 선택할 수 있습니다.",
+      "items": [
+        {
+          "title": "CNC 가공 & 금형",
+          "description": "Taikan ATC MCT 26대(102 스핀들)와 Harman CNC 선반 3대(36 스핀들)를 보유하며 1일 20시간 운영, 고정밀 부품 대응이 가능합니다.",
+          "image": "/images/factory/cnc-line.webp",
+          "imageAlt": "VP Global CNC 라인 – ATC MCT 4 스핀들 / 3 스핀들, 레이저 용접, Wire cut",
+          "details": [
+            "ATC MCT: 4-스핀들 / 3-스핀들, 18,000–60,000 RPM",
+            "CNC 선반 TX-150L: 60,000 RPM, 36 스핀들",
+            "Sodick 와이어컷, 슈퍼 드릴, 방전, 레이저 용접",
+            "2025년 하반기 30–50축 추가 확장 계획"
+          ]
+        },
+        {
+          "title": "알루미늄 압출 & 표면 처리",
+          "description": "1,350톤 알루미늄 압출 공정 풀라인 운영: 빌렛 – 열처리 – 압출 – 스트레칭 – 코팅 / 실크 인쇄 후공정.",
+          "image": "/images/factory/aluminium.webp",
+          "imageAlt": "알루미늄 압출 라인 – 빌렛, 열처리, 압출, 스트레칭",
+          "details": [
+            "AL extrusion press 1,350 톤",
+            "Heat treatment + stretching 라인",
+            "분체 도장, 액상 스프레이, 실크 / 패드 인쇄",
+            "5G 리시버, adapter box, LED 1,200/600mm 대응"
+          ]
+        },
+        {
+          "title": "엔지니어링 플라스틱 사출",
+          "description": "PVC 월 3,000톤, PC/ABS/TPU/TPE/PP/PE 월 500톤 규모. 85–360톤 설비 라인업과 솔리드/리퀴드 러버 몰딩 지원.",
+          "image": "/images/factory/injection-line.webp",
+          "imageAlt": "사출 라인 – Haitian / Woojin 사출기와 take-out 로봇",
+          "details": [
+            "수직 사출 85–100톤: 24대",
+            "Small/medium 138–200톤: 15대",
+            "Large 360톤: 2대",
+            "키패드용 진공 러버 몰딩 운영"
+          ]
+        },
+        {
+          "title": "프레스 · NCT · 레이저",
+          "description": "프레스 60–300톤 11대, NCT(펀치 1대 + 벤딩 2대), CO2 레이저, die-casting과 후처리까지 일괄 운영.",
+          "image": "/images/factory/press-line.webp",
+          "imageAlt": "프레스 라인 60–300톤 – 펀칭, 벤딩, CO2 레이저",
+          "details": [
+            "프레스 150 / 160 / 200톤 + 60–300톤 라인",
+            "NCT 펀칭 / 벤딩 / CO2 레이저",
+            "Die-casting + 코팅 / 인쇄 연계",
+            "케이스, 브래킷, 패널 부품 대응"
+          ]
+        },
+        {
+          "title": "Bolt / Screw & Spring 라인",
+          "description": "헤더, 롤링, 셈, 자동 선반, 스위스 턴 및 CNC 선반으로 Ø32mm 이하 정밀 소형 부품 양산이 가능합니다.",
+          "image": "/images/factory/bolt-line.webp",
+          "imageAlt": "Bolt 라인 – 헤더 공정, CNC 스위스 턴, 스프링 CNC620",
+          "details": [
+            "Header Ø2.0mm 이하: 월 32,000 Kpcs",
+            "Rolling Ø2.6–6.0mm: 월 20,000 Kpcs",
+            "Spring CNC620: 4대, 월 3,000 Kpcs",
+            "CNC 스위스 턴 Ø32 / Ø20 / Ø12 / Ø4 mm"
+          ]
+        },
+        {
+          "title": "측정 & 품질 관리",
+          "description": "다단계 측정 인프라로 공차와 안정성을 확보합니다: 비전, 좌표, 현미경, 만능 시험기.",
+          "image": "/images/factory/measuring.webp",
+          "imageAlt": "측정 스테이션 – 3D 좌표 측정기, 프로젝터, 만능 시험기",
+          "details": [
+            "Tool Microscope VMS, vision inspection",
+            "비접촉 / 접촉식 3D 좌표 측정기",
+            "Ultrasonic, projector",
+            "만능 시험기 + 세척 설비"
+          ]
+        }
+      ]
+    },
+    "process": {
+      "label": "협업 프로세스",
+      "title": "기술 요구를 안정적인 양산으로 옮기는 6단계",
+      "description": "프로젝트 간 일관된 프로세스로 진행 상황을 투명하게 공유하고 주요 인계 시점의 리스크를 줄입니다.",
+      "image": "/images/factory/compound-line.webp",
+      "imageAlt": "VP Global Compound line – 접수에서 출하까지의 운영 흐름",
+      "steps": [
+        {
+          "stepLabel": "Step 01",
+          "title": "요구사항 접수",
+          "description": "BOM, 도면, 공차, 예상 수량을 접수해 첫 미팅에서 적합한 공정을 분류합니다."
+        },
+        {
+          "stepLabel": "Step 02",
+          "title": "개발 & DFM",
+          "description": "타당성 검토와 함께 소재 / 공차 / 금형 구성을 최적화하고 견적과 병행해 샘플을 제작합니다."
+        },
+        {
+          "stepLabel": "Step 03",
+          "title": "Pilot & 승인",
+          "description": "Pilot 양산 후 vision과 3D 좌표 측정으로 검사하고 표준 샘플과 비교해 본양산 진입을 승인 받습니다."
+        },
+        {
+          "stepLabel": "Step 04",
+          "title": "본 양산",
+          "description": "CNC, 알루미늄 압출, 사출, 프레스, 코팅, 조립을 동일 공장에서 운영하며 통합 진행 보드로 관리합니다."
+        },
+        {
+          "stepLabel": "Step 05",
+          "title": "최종 검사 & color test",
+          "description": "Visual inspection, color chip test, colorimeter 검사 후 출하하며 로트별 CoC 보고서를 발행합니다."
+        },
+        {
+          "stepLabel": "Step 06",
+          "title": "출하 & 사후 대응",
+          "description": "고객 요구에 맞춰 패키징·출하하고, 사용 단계의 피드백 및 CAPA 대응까지 동행합니다."
+        }
+      ],
+      "footnote": "주간 진행 보고서 수령과 단계별 기술 상담을 언제든 요청할 수 있습니다.",
+      "commitment": {
+        "title": "프로세스 약속",
+        "items": [
+          { "label": "진행 상황 보고", "value": "주간 단위" },
+          { "label": "문의 응답", "value": "영업일 1일 이내" },
+          { "label": "DFM 리뷰", "value": "견적에 첨부" },
+          { "label": "샘플 리드타임", "value": "프로젝트별 협의" }
+        ]
+      }
+    },
+    "whyChooseUs": {
+      "title": "VP Global을 선택하는 이유",
+      "description": "B2B 기술 구매 담당자에게 가장 중요한 세 가지 가치 – 생산 안정성, 기술 투명성, 장기 협업 역량 – 에 집중합니다.",
+      "image": "/images/why-visual.svg",
+      "imageAlt": "VP Global의 품질 관리 및 기술 협업 영역",
+      "imageCaption": "한국인 매니저와 베트남 팀의 직접 기술 협업 환경.",
+      "kpisTitle": "숫자로 보는 역량",
+      "kpis": [
+        { "label": "ATC MCT", "value": "26대", "note": "102 스핀들" },
+        { "label": "CNC 선반", "value": "3대", "note": "36 스핀들 · 60K RPM" },
+        { "label": "알루미늄 압출", "value": "1,350 톤", "note": "Heat + 스트레칭 라인" },
+        { "label": "프레스", "value": "11대", "note": "60–300 톤" },
+        { "label": "PVC 생산량", "value": "월 3,000톤", "note": "Compound 라인" },
+        { "label": "운영 기간", "value": "5년+", "note": "2020년 시작" }
+      ],
+      "points": [
+        {
+          "title": "한 공장 안의 다공정 통합 운영",
+          "description": "CNC, 알루미늄 압출, 사출, 프레스, 코팅, 조립, 측정을 동일 거점에서 운영하여 다중 공급사 조정 비용을 줄이고 품질 기준을 일관되게 유지합니다."
+        },
+        {
+          "title": "검증된 산업 프로젝트 실적",
+          "description": "Samsung SDI(ESS), AM Telecom(5G 리시버), Boca USA(adapter box), TZ Hi-tech(farm-lighting) 등 한국·글로벌 고객 프로젝트 경험을 보유합니다."
+        },
+        {
+          "title": "기술 우선의 사전 검토",
+          "description": "견적 단계에서 공정 적합성과 DFM을 함께 검토해 양산 시 발생할 수 있는 리드타임 리스크와 공차 이슈를 사전에 차단합니다."
+        },
+        {
+          "title": "한-베 협업의 빠른 응답",
+          "description": "한국인 매니저가 기술·영업 라인에 직접 배치되어 한국 고객과 글로벌 파트너 사이의 커뮤니케이션 속도를 단축합니다."
+        }
+      ],
+      "commitment": {
+        "title": "운영 약속",
+        "items": [
+          { "label": "운영 시간", "value": "1일 20시간 · 주 6일" },
+          { "label": "프로젝트 관리", "value": "한국인 기술 매니저 직접 배치" },
+          { "label": "기밀 유지", "value": "민감 프로젝트에 NDA 체결" }
+        ]
+      }
+    },
+    "projects": {
+      "title": "주요 프로젝트 및 제품군",
+      "description": "아래 항목은 산업 분야 커버리지와 기술 난이도를 보여 주기 위해 선정한 실제 운영 중인 프로젝트입니다.",
+      "items": [
+        {
+          "name": "ESS 라인 부품 (Samsung SDI)",
+          "client": "Samsung SDI",
+          "industry": "에너지 / ESS",
+          "summary": "ESS 시스템용 tube, bracket, pipe, orifice, end form, detector 부품군.",
+          "image": "/images/factory/ess-products.webp",
+          "imageAlt": "ESS 라인 제품군 – tube, bracket, pipe, orifice, EMI detector",
+          "details": [
+            "ESS tube, bracket, pipe",
+            "ESS orifice, end form, screw 라인",
+            "Flexible hose, EMI detector"
+          ]
+        },
+        {
+          "name": "5G 리시버 & adapter box",
+          "client": "AM Telecom (SK / KT) · Boca USA",
+          "industry": "통신 / 전자",
+          "summary": "한국 및 미국 시장용 5G 리시버와 adapter box용 정밀 알루미늄 부품.",
+          "image": "/images/factory/al-extrusion.webp",
+          "imageAlt": "5G 리시버와 adapter box용 알루미늄 압출 부품",
+          "details": [
+            "AL extrusion + 분체 도장",
+            "5G 리시버 부품 – AM Telecom",
+            "Adapter box outdoor/indoor – Boca USA"
+          ]
+        },
+        {
+          "name": "카메라 & 정밀 지그",
+          "client": "Samsung 벤더 및 2025 신규 프로젝트",
+          "industry": "모바일 전자",
+          "summary": "고공차 응용을 위한 camera decoration, mobile FR4 jig, camera jig.",
+          "image": "/images/factory/cnc-products.webp",
+          "imageAlt": "CNC 제품 – 카메라 데코레이션, 워치 부품, 모바일 버튼 / 힌지",
+          "details": [
+            "Camera decoration – ATC MCT 4-스핀들",
+            "Mobile FR4 jig – CNC 라인",
+            "Camera jig – 2025년 프로젝트 준비"
+          ]
+        },
+        {
+          "name": "Bolt & Screw 라인",
+          "client": "Hanjung NCS, Coway, KNK Bridge Medi",
+          "industry": "기계 / 의료",
+          "summary": "헤더, 롤링, 스프링, CNC 선반 기반의 정밀 소형 부품.",
+          "image": "/images/factory/casting-coating.webp",
+          "imageAlt": "주조와 코팅 라인 – die-casting과 분체 도장",
+          "details": [
+            "Bolt, end-form, end-cap – Hanjung NCS",
+            "금속 부품 – Woong Jin Coway",
+            "의료 부품 – KNK Bridge Medi"
+          ]
+        },
+        {
+          "name": "Tube & Extrusion 제품군",
+          "client": "UUL, CAIS, Hansung LED, Novalight",
+          "industry": "조명 / 산업",
+          "summary": "LED용 plastic tube와 1,200 / 600mm 알루미늄 압출 제품.",
+          "image": "/images/factory/tube-line.webp",
+          "imageAlt": "Tube 라인 – tube extrusion, 금형 제작, 3D 디자인 / 프린터",
+          "details": [
+            "Plastic tube – PVC / TPE / TPU / PC / ABS / PP",
+            "LED 1,200mm와 600mm",
+            "압출 금형 + cooling 금형 + cutting jig"
+          ]
+        },
+        {
+          "name": "Film & Tape 부품",
+          "client": "EM-tech 및 전자 파트너",
+          "industry": "전자 소비재",
+          "summary": "AUDIO/DVD 프론트 패널, FPCB deco, LCD/LED 패널 deco, 양면 테이프.",
+          "image": "/images/factory/film-tape.webp",
+          "imageAlt": "Film & Tape 라인 – AUDIO/DVD 프론트 패널, FPCB deco, 양면 테이프",
+          "details": [
+            "AUDIO/DVD 프론트 패널",
+            "FPCB & LCD/LED 패널 deco",
+            "절연 시트, 양면 테이프"
+          ]
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "VP Global과 협업한 고객 및 파트너",
+      "description": "산업별로 정리해 본인 분야와 맞는 프로젝트 경험을 빠르게 확인할 수 있습니다.",
+      "partnerCategories": [
+        {
+          "name": "전자 & 5G",
+          "partners": ["Samsung SDI", "AM Telecom (SK / KT)", "EM-tech"]
+        },
+        {
+          "name": "에너지 & 산업",
+          "partners": ["Hanjung NCS", "Boca USA", "Seokwang Electric"]
+        },
+        {
+          "name": "조명 & 기술 응용",
+          "partners": ["TZ Hi-tech", "Hansung LED", "Novalight", "UUL", "CAIS"]
+        },
+        {
+          "name": "소비재 & 의료",
+          "partners": ["Woong Jin Coway", "KNK Bridge Medi"]
+        }
+      ]
+    },
+    "contact": {
+      "title": "프로젝트 문의",
+      "description": "초기 요구사항을 간결하게 전달하면 기술팀이 더 빠르게 검토할 수 있습니다. 공차, 소재, 예상 수량을 함께 적어 주세요.",
+      "fields": {
+        "name": "담당자 이름",
+        "company": "회사명",
+        "email": "업무용 이메일",
+        "requirements": "기술 요구사항"
+      },
+      "placeholders": {
+        "requirements": "부품 종류, 소재, 공차, 예상 수량, 희망 리드타임 등"
+      },
+      "submit": "문의 보내기",
+      "disclaimer": "제출된 정보는 프로젝트 상담 목적에 한해 사용됩니다.",
+      "responseTime": "영업일 기준 24시간 내 우선 회신을 목표로 합니다.",
+      "contactInfoTitle": "베트남 오피스",
+      "contactInfo": [
+        "담당: Ms. Thuong",
+        "핫라인: 0972 011 307",
+        "이메일: vpglobal0201@gmail.com",
+        "주소: Hap Linh Industrial Cluster, Bac Ninh, Vietnam"
+      ],
+      "ceoLabel": "대표이사",
+      "ceoValue": "조성우 (Jo Sung Woo) · +84 903 439 318",
+      "scheduleBox": {
+        "title": "지원 시간 & 사용 언어",
+        "items": [
+          { "label": "지원 시간", "value": "Mon – Sat · 8:00–17:00 (UTC+7)" },
+          { "label": "사용 언어", "value": "Tiếng Việt · 한국어 · English" },
+          { "label": "지원 방식", "value": "Email · Phone · Online meeting" }
+        ]
+      }
+    }
+  }
+}

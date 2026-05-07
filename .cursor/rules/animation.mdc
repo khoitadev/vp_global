@@ -1,0 +1,30 @@
+---
+description: Quy tắc animation và motion guideline cho trải nghiệm chuyên nghiệp
+globs: app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# Animation Rules
+
+## Purpose
+- Dùng animation để làm rõ thông tin và nâng trải nghiệm, không làm phân tán người dùng.
+
+## Requirements
+- Motion có chủ đích: reveal, emphasis, feedback.
+- Duration/easing theo token hệ thống.
+- Hỗ trợ `prefers-reduced-motion`.
+
+## Constraints
+- Không dùng animation liên tục gây mỏi mắt.
+- Không animate thuộc tính gây jank nặng.
+- Không để animation làm chậm tương tác chính.
+
+## Best practices
+- Ưu tiên transform/opacity cho hiệu năng.
+- Giảm cường độ motion ở section giàu dữ liệu.
+- Giữ nhịp chuyển động nhất quán toàn trang.
+
+## Bad practices
+- Dùng nhiều hiệu ứng khác phong cách trong một trang.
+- Delay quá dài làm tăng perceived latency.
+- Thêm motion chỉ để trang trí không có mục tiêu UX.

@@ -1,0 +1,30 @@
+---
+description: Quy tắc accessibility theo chuẩn WCAG cho landing page
+globs: app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# Accessibility Rules
+
+## Purpose
+- Đảm bảo trang có thể sử dụng tốt cho nhiều nhóm người dùng và đạt chuẩn truy cập.
+
+## Requirements
+- Dùng semantic landmarks và heading đúng cấu trúc.
+- Mọi thành phần tương tác truy cập được bằng bàn phím.
+- Focus state luôn hiển thị rõ, không bị ẩn.
+
+## Constraints
+- Không xóa outline mặc định nếu không có thay thế.
+- Không dùng màu đơn lẻ để truyền tải trạng thái.
+- Không dùng text quá nhỏ làm giảm khả năng đọc.
+
+## Best practices
+- Kiểm tra contrast cho light/dark mode.
+- Gắn nhãn phù hợp cho icon-only button và link.
+- Hỗ trợ reduced-motion cho người dùng nhạy chuyển động.
+
+## Bad practices
+- Clickable div không vai trò truy cập phù hợp.
+- Placeholder thay label trong form.
+- Tự động chạy animation gây mất kiểm soát tập trung.

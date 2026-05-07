@@ -1,0 +1,30 @@
+---
+description: Quy tắc performance cho landing page theo hướng Core Web Vitals
+globs: app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# Performance Rules
+
+## Purpose
+- Duy trì hiệu năng cao và ổn định để cải thiện SEO, UX và tỷ lệ chuyển đổi.
+
+## Requirements
+- Ưu tiên server-first và giảm client JS không cần thiết.
+- Tối ưu ảnh, font, và tài nguyên quan trọng cho first render.
+- Theo dõi tác động đến LCP, CLS, INP khi thêm tính năng.
+
+## Constraints
+- Không thêm thư viện nặng nếu chưa đánh giá lợi ích.
+- Không dùng animation/layout gây reflow quá mức.
+- Không tải trước tài nguyên không phục vụ đường dẫn chính.
+
+## Best practices
+- Tối ưu thành phần đầu trang và CTA vùng first viewport.
+- Chia nhỏ và trì hoãn tác vụ không quan trọng.
+- Đo lường định kỳ bằng Lighthouse/Core Web Vitals.
+
+## Bad practices
+- Chèn media nặng chưa nén vào hero.
+- Dùng quá nhiều effect runtime cho section tĩnh.
+- Đánh đổi khả năng truy cập để lấy điểm hiệu năng ngắn hạn.

@@ -1,0 +1,30 @@
+---
+description: Quy tắc design system và token hóa giao diện
+globs: app/**/*.{ts,tsx,css}
+alwaysApply: false
+---
+
+# Design System Rules
+
+## Purpose
+- Đảm bảo UI thống nhất, mở rộng tốt và hỗ trợ light/dark mode bằng token.
+
+## Requirements
+- Dùng CSS variables cho role tokens và semantic tokens.
+- Typography, spacing, radius, shadow, motion phải đi qua token.
+- Component chỉ sử dụng role token, không dùng giá trị màu trực tiếp.
+
+## Constraints
+- Không hardcode hex/rgb trong component.
+- Không thêm token trùng vai trò mà không chuẩn hóa naming.
+- Không dùng inline style để thay thế token hệ thống.
+
+## Best practices
+- Tách primitive token và role token rõ ràng.
+- Đặt tên token theo chức năng (`--text-primary`, `--surface-elevated`).
+- Kiểm thử contrast ở cả light và dark mode.
+
+## Bad practices
+- Trộn token và magic number trong cùng component.
+- Gán màu theo ngữ cảnh ngắn hạn thay vì semantic.
+- Định nghĩa token rời rạc không theo scale.

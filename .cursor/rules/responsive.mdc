@@ -1,0 +1,30 @@
+---
+description: Quy tắc responsive cho mobile-first và đa kích thước màn hình
+globs: app/**/*.{ts,tsx,css}
+alwaysApply: false
+---
+
+# Responsive Rules
+
+## Purpose
+- Đảm bảo trải nghiệm nhất quán từ mobile đến ultra-wide, giữ hiệu quả chuyển đổi.
+
+## Requirements
+- Thiết kế theo mobile-first.
+- Grid, spacing, typography phải scale theo breakpoint.
+- Container width có giới hạn để giữ khả năng đọc.
+
+## Constraints
+- Không cố định kích thước gây vỡ layout.
+- Không đặt breakpoint rời rạc thiếu hệ thống.
+- Không ưu tiên desktop trước mobile.
+
+## Best practices
+- Xác định responsive behavior cho từng section.
+- Kiểm thử ở nhiều viewport thực tế.
+- Dùng token spacing và typography thay vì chỉnh tay từng điểm.
+
+## Bad practices
+- Nội dung bị cắt hoặc tràn mà không xử lý.
+- CTA chính bị đẩy xuống quá sâu ở mobile.
+- Lạm dụng ẩn nội dung quan trọng ở màn hình nhỏ.

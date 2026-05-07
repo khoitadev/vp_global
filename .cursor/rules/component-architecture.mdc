@@ -1,0 +1,30 @@
+---
+description: Quy tắc kiến trúc component và section cho landing page
+globs: app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# Component Architecture Rules
+
+## Purpose
+- Chuẩn hóa cách tổ chức component để tăng tái sử dụng và giảm phụ thuộc chéo.
+
+## Requirements
+- Tách section component và shared component.
+- Props contract rõ ràng, hạn chế props mơ hồ.
+- Component phải có trách nhiệm đơn, không ôm nhiều nghiệp vụ.
+
+## Constraints
+- Không để component vượt ngưỡng phức tạp khó review.
+- Không trộn data-fetching và trình bày nếu không cần thiết.
+- Không phụ thuộc trạng thái toàn cục cho tương tác nhỏ.
+
+## Best practices
+- Tạo primitive components nhất quán với design system.
+- Tách logic xử lý dữ liệu ra helper/hook khi cần.
+- Viết component theo hướng content-driven.
+
+## Bad practices
+- Tạo component dùng một lần nhưng quá đặc thù.
+- Truyền props chồng chéo nhiều tầng không cần thiết.
+- Đóng gói quá sớm làm giảm khả năng đọc mã.

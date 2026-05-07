@@ -1,0 +1,30 @@
+---
+description: Quy tắc quản lý nội dung đa ngôn ngữ vi-ko và content model
+globs: app/**/*.{ts,tsx,json}
+alwaysApply: false
+---
+
+# i18n Content Rules
+
+## Purpose
+- Chuẩn hóa nội dung đa ngôn ngữ để mở rộng bền vững và tránh sai lệch thông điệp.
+
+## Requirements
+- Tách dictionary theo locale `vi` và `ko`.
+- Mọi chuỗi hiển thị đi qua key i18n, không hardcode.
+- Key đặt theo domain section và ngữ nghĩa rõ.
+
+## Constraints
+- Không trộn text tiếng Việt/Hàn trực tiếp trong component.
+- Không dùng key chung chung thiếu ngữ cảnh.
+- Không để fallback locale làm sai nghĩa nghiệp vụ.
+
+## Best practices
+- Quản lý key theo cấu trúc thống nhất toàn dự án.
+- Viết bản gốc tiếng Việt rõ nghĩa trước khi dịch Hàn.
+- Duy trì checklist đồng bộ key giữa các locale.
+
+## Bad practices
+- Dịch tự do làm thay đổi ý business.
+- Đặt key theo vị trí UI thay vì nghĩa nội dung.
+- Gộp quá nhiều đoạn text dài vào một key khó tái dùng.

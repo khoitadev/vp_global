@@ -1,0 +1,29 @@
+---
+description: Quy ước đặt tên nhất quán cho file, component, token và content key
+alwaysApply: true
+---
+
+# Naming Convention
+
+## Purpose
+- Tạo hệ thống đặt tên nhất quán để tăng tốc độ phát triển, review và bảo trì.
+
+## Requirements
+- Component dùng PascalCase, biến/hàm dùng camelCase.
+- File section/component dùng kebab-case hoặc PascalCase nhất quán theo nhóm.
+- Content key i18n theo domain rõ ràng (`section.block.item`).
+
+## Constraints
+- Không đặt tên mơ hồ như `data`, `info`, `temp`.
+- Không viết tắt khó hiểu trong tên domain nghiệp vụ.
+- Không đổi naming style tùy tiện giữa các thư mục.
+
+## Best practices
+- Tên phản ánh mục đích business hoặc UI role.
+- Prefix rõ ngữ cảnh cho utility/hook dùng chung.
+- Dùng hậu tố nhất quán cho biến trạng thái (is/has/can).
+
+## Bad practices
+- Tên quá ngắn không thể hiện ý nghĩa.
+- Trộn nhiều ngôn ngữ trong cùng hệ tên.
+- Dùng key i18n không có cấu trúc.

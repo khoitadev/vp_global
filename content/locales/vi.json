@@ -1,0 +1,483 @@
+{
+  "ui": {
+    "brand": "VP Global",
+    "nav": {
+      "ariaLabel": "Điều hướng chính",
+      "about": "Giới thiệu",
+      "services": "Năng lực",
+      "process": "Quy trình",
+      "projects": "Dự án",
+      "contact": "Liên hệ"
+    },
+    "localeLabel": {
+      "vi": "Tiếng Việt",
+      "ko": "한국어"
+    },
+    "localeSwitcher": {
+      "label": "Ngôn ngữ",
+      "menuLabel": "Chọn ngôn ngữ hiển thị",
+      "currentLabel": "Ngôn ngữ hiện tại",
+      "vi": "VI",
+      "ko": "KO"
+    },
+    "themeSwitcher": {
+      "label": "Giao diện",
+      "menuLabel": "Chọn chế độ giao diện",
+      "currentLabel": "Đang dùng",
+      "system": "Theo hệ thống",
+      "light": "Chế độ sáng",
+      "dark": "Chế độ tối"
+    },
+    "footer": {
+      "tagline": "Đối tác sản xuất B2B end-to-end cho linh kiện điện tử, năng lượng và thiết bị công nghiệp tại Việt Nam.",
+      "quickLinksTitle": "Liên kết nhanh",
+      "contactTitle": "Thông tin liên hệ",
+      "factsTitle": "Năng lực vận hành",
+      "capabilitiesTitle": "Năng lực cốt lõi",
+      "capabilities": ["CNC & Mold", "Đùn nhôm 1,350 ton", "Ép nhựa kỹ thuật", "Press 60–300 ton", "Coating & Lắp ráp"],
+      "quickLinks": [
+        { "href": "#about", "label": "Giới thiệu" },
+        { "href": "#services", "label": "Năng lực sản xuất" },
+        { "href": "#process", "label": "Quy trình hợp tác" },
+        { "href": "#projects", "label": "Dự án tiêu biểu" },
+        { "href": "#contact", "label": "Liên hệ" }
+      ],
+      "facts": [
+        { "label": "Khởi đầu", "value": "2020" },
+        { "label": "Quy mô đội ngũ", "value": "25+ chuyên viên" },
+        { "label": "Trục CNC", "value": "138+ spindle" },
+        { "label": "Press line", "value": "60–300 tons" }
+      ],
+      "address": "Hap Linh Industrial Cluster, Bắc Ninh, Việt Nam",
+      "addressLabel": "Địa chỉ",
+      "emailLabel": "Email",
+      "emailValue": "vpglobal0201@gmail.com",
+      "phoneLabel": "Hotline",
+      "phoneValue": "0972 011 307",
+      "ceoLabel": "Tổng giám đốc",
+      "ceoValue": "Mr. Jo Sung Woo",
+      "vnContactLabel": "Đầu mối Việt Nam",
+      "vnContactValue": "Ms. Thuong",
+      "copyright": "© 2026 VP GLOBAL CO., LTD. - Quảng cáo sản phẩm ESS và CNC."
+    }
+  },
+  "meta": {
+    "title": "VP Global | Đối tác sản xuất B2B - CNC, đùn nhôm, ép nhựa, lắp ráp tại Việt Nam",
+    "description": "VP Global cung cấp năng lực thiết kế, phát triển và sản xuất end-to-end cho linh kiện công nghiệp: gia công CNC 102 spindle, đùn nhôm 1350 ton, ép nhựa kỹ thuật, press 60-300 tons, lắp ráp và kiểm tra chất lượng tại Bắc Ninh, Việt Nam."
+  },
+  "landing": {
+    "hero": {
+      "badge": "Design – Development – Manufacturing",
+      "title": "Đối tác sản xuất B2B từ thiết kế kỹ thuật đến giao hàng ổn định tại Việt Nam",
+      "description": "VP Global vận hành chuỗi sản xuất tích hợp gồm CNC, đùn nhôm, ép nhựa kỹ thuật, press, coating và lắp ráp – phục vụ khách hàng OEM/ODM trong các ngành điện tử, năng lượng và thiết bị công nghiệp.",
+      "primaryCta": "Gửi yêu cầu báo giá",
+      "secondaryCta": "Xem năng lực sản xuất",
+      "trustNote": "Vận hành từ 2020 · Đối tác của Samsung SDI, Boca USA, AM Telecom, TZ Hi-tech",
+      "highlights": [
+        "Phối hợp đồng bộ từ mẫu thử – pilot – lô sản xuất ổn định",
+        "Đội ngũ kỹ thuật song ngữ Việt – Hàn hỗ trợ trực tiếp dự án",
+        "Tích hợp 8+ nhóm quy trình trong cùng một hệ thống nhà máy",
+        "Quản lý chất lượng bằng vision inspection và 3D measuring"
+      ],
+      "stats": [
+        { "label": "Trục gia công CNC", "value": "138+ spindles" },
+        { "label": "Năng lực press line", "value": "60–300 tons" },
+        { "label": "Sản lượng ép nhựa", "value": "3,500+ tấn/tháng" }
+      ],
+      "featureImage": "/images/hero-feature.svg",
+      "featureImageAlt": "Tổng quan nhà máy VP Global tại Bắc Ninh – tích hợp CNC, đùn nhôm, ép nhựa và lắp ráp",
+      "featureImageCaption": "Nhà máy Hap Linh, Bắc Ninh — vận hành 20h/ngày trên 8+ nhóm quy trình."
+    },
+    "about": {
+      "title": "Về VP Global",
+      "description": "Khởi đầu năm 2020 từ lĩnh vực vật liệu nền, VP Global đã mở rộng thành doanh nghiệp phát triển và sản xuất đa quy trình, vận hành từ Hap Linh Industrial Cluster (Bắc Ninh) phục vụ khách hàng Hàn Quốc và quốc tế.",
+      "facilityImage": "/images/about-facility.svg",
+      "facilityImageAlt": "Nhà máy VP Global tại Hap Linh Industrial Cluster, Bắc Ninh",
+      "facilityCaption": "Hap Linh Industrial Cluster, Bắc Ninh, Việt Nam",
+      "teamImage": "/images/team.svg",
+      "teamImageAlt": "Đội ngũ vận hành VP Global – kỹ thuật, sản xuất và quản lý song ngữ Việt – Hàn",
+      "highlights": [
+        "Mô hình thiết kế – phát triển – sản xuất khép kín, rút ngắn vòng lặp NPI cho khách hàng OEM/ODM.",
+        "Tập trung nhóm sản phẩm linh kiện kim loại, nhựa kỹ thuật, cụm lắp ráp và phụ kiện chính xác.",
+        "Đội ngũ song ngữ Việt – Hàn đồng hành xuyên suốt từ kỹ thuật đến thương mại và logistics.",
+        "Ưu tiên đầu tư mở rộng năng lực CNC và máy đo theo lộ trình tăng trưởng tới 2025.",
+        "Đầu tư hạ tầng đo kiểm và vision inspection theo cam kết dài hạn về chất lượng."
+      ],
+      "facts": [
+        { "label": "Địa điểm vận hành", "value": "Hap Linh Industrial Cluster, Bắc Ninh" },
+        { "label": "Mô hình hỗ trợ", "value": "Kỹ thuật + thương mại song hành" },
+        { "label": "Phạm vi dự án", "value": "Linh kiện kỹ thuật & cụm lắp ráp" },
+        { "label": "Giờ vận hành", "value": "20h/ngày · 6 ngày/tuần" },
+        { "label": "Ngôn ngữ làm việc", "value": "Việt – Hàn – English" }
+      ],
+      "byTheNumbers": {
+        "title": "Quy mô vận hành",
+        "description": "Cấu trúc tổ chức tinh gọn, tỷ lệ kỹ sư – sản xuất – chất lượng cân bằng để giữ tốc độ phản hồi cao.",
+        "items": [
+          { "label": "Tổng nhân sự", "value": "25+", "note": "Hàn Quốc + nội địa" },
+          { "label": "Đội kỹ thuật & quản lý", "value": "3 người Hàn Quốc", "note": "QC + sản xuất + thương mại" },
+          { "label": "Đội QC + sản xuất", "value": "28 người", "note": "Vận hành 20h/ngày" },
+          { "label": "Đội thương mại + kế toán", "value": "10 người", "note": "Hỗ trợ song ngữ" }
+        ]
+      },
+      "missionVision": {
+        "label": "Định hướng dài hạn",
+        "missionTitle": "Sứ mệnh",
+        "missionBody": "Trở thành đối tác sản xuất tin cậy của doanh nghiệp Hàn Quốc và quốc tế tại Việt Nam – kết nối thiết kế, phát triển và sản xuất trong một hệ thống thống nhất, rút ngắn vòng lặp NPI và đảm bảo chất lượng nhất quán cho từng đơn hàng.",
+        "visionTitle": "Tầm nhìn",
+        "visionBody": "Đến 2027, mở rộng năng lực CNC lên 200+ trục, hoàn thiện chuỗi tích hợp thiết kế – sản xuất – kiểm soát chất lượng cho linh kiện kỹ thuật phức tạp; trở thành lựa chọn hàng đầu cho các dự án ESS, viễn thông và thiết bị công nghiệp tại khu vực Đông Nam Á.",
+        "valuesTitle": "Giá trị cốt lõi",
+        "values": [
+          {
+            "title": "Đa quy trình một mái nhà",
+            "description": "8+ nhóm quy trình vận hành đồng bộ tại cùng một nhà máy."
+          },
+          {
+            "title": "Kỹ thuật đi trước thương mại",
+            "description": "DFM và đánh giá khả thi được lồng vào ngay từ giai đoạn báo giá."
+          },
+          {
+            "title": "Phối hợp song ngữ Việt – Hàn",
+            "description": "Quản lý kỹ thuật người Hàn trực tiếp giảm rào cản giao tiếp dự án."
+          },
+          {
+            "title": "Đầu tư có lộ trình",
+            "description": "Mở rộng năng lực CNC, đo kiểm và vật liệu theo cam kết dài hạn."
+          }
+        ]
+      },
+      "timeline": [
+        {
+          "year": "2020",
+          "title": "Khởi đầu",
+          "event": "ETF start-up trong lĩnh vực vật liệu nền, đặt nền móng cho hệ sinh thái sản xuất."
+        },
+        {
+          "year": "2022",
+          "title": "Mở rộng năng lực nhôm và lắp ráp",
+          "event": "Yuwon (công ty nhôm) và Suntech (lắp ráp tại Việt Nam) đầu tư vào VP Global."
+        },
+        {
+          "year": "2023",
+          "title": "Khách hàng quốc tế đầu tiên",
+          "event": "Đẩy mạnh nhôm cho thiết bị 5G receiver (AM Telecom) và adapter box (Boca USA)."
+        },
+        {
+          "year": "2024",
+          "title": "Vendor cho Samsung và mở rộng đầu tư",
+          "event": "Triển khai linh kiện chính cho vendor Samsung; HK đầu tư mới."
+        },
+        {
+          "year": "2025",
+          "title": "Đa dạng hoá ngành hàng",
+          "event": "Tham gia cổ phần Seokwang Electric, chuẩn bị dự án camera jig và mở rộng kinh doanh tape điện tử."
+        }
+      ]
+    },
+    "services": {
+      "title": "Năng lực sản xuất tích hợp",
+      "description": "Mô hình nhà máy đa quy trình giúp rút ngắn lead time, giảm chi phí phối hợp nhiều nhà cung ứng và giữ tính nhất quán về chất lượng cho từng dự án.",
+      "footnote": "Khách hàng có thể chọn từng năng lực riêng lẻ hoặc gói kết hợp end-to-end theo dự án.",
+      "items": [
+        {
+          "title": "Gia công CNC & khuôn mẫu",
+          "description": "26 máy ATC MCT (Taikan) với 102 spindle và 3 máy CNC lathe Harman 36 spindle, vận hành 20 giờ/ngày phục vụ chi tiết độ chính xác cao.",
+          "image": "/images/factory/cnc-line.webp",
+          "imageAlt": "CNC Line tại VP Global – ATC MCT 4 spindle, 3 spindle, laser welding và wire cut",
+          "details": [
+            "ATC MCT: 4-spindle / 3-spindle, RPM 18,000–60,000",
+            "CNC Lathe TX-150L: 60,000 RPM, 36 spindle",
+            "Wire cut Sodick, super drill, discharger, laser welding",
+            "Lộ trình mở rộng 30–50 trục mới trong H2/2025"
+          ]
+        },
+        {
+          "title": "Đùn nhôm & xử lý bề mặt",
+          "description": "Quy trình đùn nhôm 1350 ton hoàn chỉnh: nguyên liệu billet, xử lý nhiệt, đùn, kéo căng, kết hợp coating và in lụa hoàn thiện.",
+          "image": "/images/factory/aluminium.webp",
+          "imageAlt": "Quy trình đùn nhôm – billet, heat treatment, extrusion và stretching",
+          "details": [
+            "AL extrusion press 1350 ton",
+            "Heat treatment + stretching line",
+            "Powder coating, liquid spray, silk printing, pad printing",
+            "Sản phẩm tiêu biểu: 5G receiver, adapter box, LED 1200/600mm"
+          ]
+        },
+        {
+          "title": "Ép nhựa kỹ thuật",
+          "description": "Năng lực ép nhựa cho PVC (3,000 tấn/tháng), PC/ABS/TPU/TPE/PP/PE (500 tấn/tháng) trên dải máy 85–360 ton, hỗ trợ ép cao su rắn và lỏng.",
+          "image": "/images/factory/injection-line.webp",
+          "imageAlt": "Injection Line – máy ép nhựa Haitian, Woojin với take-out robot",
+          "details": [
+            "Vertical injection 85–100 ton: 24 máy",
+            "Small/medium 138–200 ton: 15 máy",
+            "Large injection 360 ton: 2 máy",
+            "Rubber molding (vacuum) cho keypad và phụ kiện"
+          ]
+        },
+        {
+          "title": "Press, NCT & laser",
+          "description": "11 máy press 60–300 tons kết hợp NCT (1 punch + 2 bend), CO2 laser và xử lý die-casting cho linh kiện cơ điện.",
+          "image": "/images/factory/press-line.webp",
+          "imageAlt": "Press line 60–300 tons gồm punching, bending và CO2 laser",
+          "details": [
+            "Press 150 / 160 / 200 ton + dải 60–300 ton",
+            "NCT Punching, Bending, CO2 Laser",
+            "Die-casting kết hợp coating/printing",
+            "Phù hợp cụm vỏ, brackets, panel kim loại"
+          ]
+        },
+        {
+          "title": "Bolt / Screw & Spring line",
+          "description": "Header, rolling, sem's, automatic lathe, swiss-turn và CNC lathe phục vụ chi tiết cơ khí nhỏ tới Ø32mm.",
+          "image": "/images/factory/bolt-line.webp",
+          "imageAlt": "Bolt line – header process, CNC swiss-turn và spring CNC620",
+          "details": [
+            "Header dưới Ø2.0mm: 32,000 Kpcs/tháng",
+            "Rolling Ø2.6–6.0mm: 20,000 Kpcs/tháng",
+            "Spring CNC620: 4 máy, 3,000 Kpcs/tháng",
+            "CNC swiss-turn dưới Ø32 / Ø20 / Ø12 / Ø4 mm"
+          ]
+        },
+        {
+          "title": "Đo kiểm & kiểm soát chất lượng",
+          "description": "Hệ đo lường đa cấp đảm bảo dung sai và độ ổn định: vision, đo toạ độ, kính hiển vi và universal testing.",
+          "image": "/images/factory/measuring.webp",
+          "imageAlt": "Trạm đo kiểm – 3D coordinate measuring, projector và universal testing",
+          "details": [
+            "Tool Microscope VMS, vision inspection",
+            "Non-contact & contact 3D coordinate measuring",
+            "Ultrasonic wave, projector",
+            "Universal testing m/c và washing room"
+          ]
+        }
+      ]
+    },
+    "process": {
+      "label": "Quy trình hợp tác",
+      "title": "Sáu bước biến yêu cầu kỹ thuật thành lô sản xuất ổn định",
+      "description": "Quy trình đồng nhất giữa các dự án giúp khách hàng theo dõi tiến độ minh bạch và giảm rủi ro tại các điểm chuyển giao quan trọng.",
+      "image": "/images/factory/compound-line.webp",
+      "imageAlt": "Compound line tại VP Global – luồng vận hành từ tiếp nhận, phát triển đến giao hàng",
+      "steps": [
+        {
+          "stepLabel": "Bước 01",
+          "title": "Tiếp nhận yêu cầu",
+          "description": "Tiếp nhận BOM, drawing, dung sai và sản lượng kỳ vọng. Đội kỹ thuật phân loại quy trình phù hợp ngay từ phiên trao đổi đầu tiên."
+        },
+        {
+          "stepLabel": "Bước 02",
+          "title": "Phát triển & DFM",
+          "description": "Đánh giá khả thi, đề xuất tối ưu vật liệu / dung sai / cấu hình khuôn và làm mẫu thử song song với việc chốt giá."
+        },
+        {
+          "stepLabel": "Bước 03",
+          "title": "Pilot & xác nhận",
+          "description": "Sản xuất lô pilot, đo kiểm bằng vision và 3D coordinate, đối chiếu mẫu chuẩn cùng khách hàng trước khi chuyển sang lô chính."
+        },
+        {
+          "stepLabel": "Bước 04",
+          "title": "Sản xuất chính",
+          "description": "Vận hành đa quy trình tại cùng nhà máy: CNC, đùn nhôm, ép nhựa, press, coating và lắp ráp – kiểm soát đồng bộ qua bảng tiến độ chung."
+        },
+        {
+          "stepLabel": "Bước 05",
+          "title": "Kiểm tra cuối & color test",
+          "description": "Visual inspection, color chip test và kiểm tra bằng colorimeter trước khi đóng gói; lập báo cáo CoC theo từng lô."
+        },
+        {
+          "stepLabel": "Bước 06",
+          "title": "Giao hàng & hậu mãi",
+          "description": "Đóng gói theo yêu cầu, giao hàng theo Incoterms thoả thuận, đồng hành xử lý phản hồi và CAPA nếu phát sinh trong sử dụng."
+        }
+      ],
+      "footnote": "Khách hàng có thể nhận báo cáo trạng thái theo tuần và yêu cầu trao đổi kỹ thuật trực tiếp ở bất kỳ bước nào.",
+      "commitment": {
+        "title": "Cam kết quy trình",
+        "items": [
+          { "label": "Báo cáo trạng thái", "value": "Hàng tuần" },
+          { "label": "Phản hồi yêu cầu", "value": "Trong 1 ngày làm việc" },
+          { "label": "DFM review", "value": "Đính kèm trong báo giá" },
+          { "label": "Lead time mẫu thử", "value": "Thoả thuận theo dự án" }
+        ]
+      }
+    },
+    "whyChooseUs": {
+      "title": "Lý do đối tác chọn VP Global",
+      "description": "Chúng tôi tập trung vào tính ổn định sản xuất, minh bạch kỹ thuật và năng lực phối hợp dài hạn – ba yếu tố quan trọng nhất với buyer kỹ thuật B2B.",
+      "image": "/images/why-visual.svg",
+      "imageAlt": "Khu vực kiểm soát chất lượng và phối hợp kỹ thuật tại VP Global",
+      "imageCaption": "Phối hợp kỹ thuật trực tiếp giữa quản lý người Hàn và đội Việt Nam.",
+      "kpisTitle": "Năng lực bằng số liệu",
+      "kpis": [
+        { "label": "Máy ATC MCT", "value": "26", "note": "102 spindle" },
+        { "label": "Máy CNC Lathe", "value": "3", "note": "36 spindle, 60K RPM" },
+        { "label": "AL extrusion", "value": "1,350 ton", "note": "Heat + stretching line" },
+        { "label": "Press machines", "value": "11", "note": "60–300 ton" },
+        { "label": "Sản lượng PVC", "value": "3,000 t/m", "note": "Compound line" },
+        { "label": "Năm hoạt động", "value": "5+", "note": "Khởi đầu 2020" }
+      ],
+      "points": [
+        {
+          "title": "Đa quy trình trong một hệ thống",
+          "description": "CNC, đùn nhôm, ép nhựa, press, coating, lắp ráp và đo kiểm cùng vận hành tại một nhà máy – giảm chi phí phối hợp nhiều nhà cung ứng và đồng bộ tiêu chuẩn chất lượng."
+        },
+        {
+          "title": "Kinh nghiệm dự án công nghiệp thực tế",
+          "description": "Đã triển khai linh kiện cho Samsung SDI (ESS system), AM Telecom (5G receiver), Boca USA (adapter box) và TZ Hi-tech (farm-lighting) cùng nhiều khách hàng Hàn Quốc."
+        },
+        {
+          "title": "Tiếp cận kỹ thuật trước thương mại",
+          "description": "Đội ngũ rà soát khả thi, đề xuất quy trình và DFM ngay từ giai đoạn báo giá – hạn chế rủi ro lead-time và sai số dung sai khi vào sản xuất."
+        },
+        {
+          "title": "Tốc độ phản hồi song ngữ Việt – Hàn",
+          "description": "Đội ngũ kỹ thuật và thương mại có quản lý người Hàn trực tiếp, hỗ trợ giao tiếp nhanh với khách hàng Hàn Quốc và đối tác toàn cầu."
+        }
+      ],
+      "commitment": {
+        "title": "Cam kết vận hành",
+        "items": [
+          { "label": "Khung giờ vận hành", "value": "20h/ngày, 6 ngày/tuần" },
+          { "label": "Quản lý dự án", "value": "Quản lý kỹ thuật người Hàn trực tiếp" },
+          { "label": "Bảo mật", "value": "NDA cho dự án nhạy cảm" }
+        ]
+      }
+    },
+    "projects": {
+      "title": "Dự án và nhóm sản phẩm tiêu biểu",
+      "description": "Danh mục dưới đây phản ánh năng lực thực tế đã và đang triển khai trong sản xuất, được lựa chọn để minh hoạ độ phủ ngành và độ phức tạp kỹ thuật.",
+      "items": [
+        {
+          "name": "Linh kiện ESS Line (Samsung SDI)",
+          "client": "Samsung SDI",
+          "industry": "Năng lượng / Lưu trữ",
+          "summary": "Cụm linh kiện cho hệ thống ESS gồm tube, bracket, pipe, orifice, end form và detector.",
+          "image": "/images/factory/ess-products.webp",
+          "imageAlt": "Cụm sản phẩm ESS – tube, bracket, pipe, orifice, EMI detector",
+          "details": [
+            "ESS tube, ESS bracket, ESS pipe",
+            "ESS orifice, end form, screw line",
+            "Flexible hose, EMI detector"
+          ]
+        },
+        {
+          "name": "5G receiver & adapter box",
+          "client": "AM Telecom (SK / KT) · Boca USA",
+          "industry": "Viễn thông / Điện tử",
+          "summary": "Linh kiện nhôm chính xác cho 5G receiver và adapter box phục vụ thị trường Hàn Quốc và Mỹ.",
+          "image": "/images/factory/al-extrusion.webp",
+          "imageAlt": "Linh kiện đùn nhôm hoàn thiện cho 5G receiver và adapter box",
+          "details": [
+            "AL extrusion + xử lý bề mặt powder coating",
+            "Linh kiện 5G receiver – AM Telecom",
+            "Adapter box outdoor/indoor – Boca USA"
+          ]
+        },
+        {
+          "name": "Camera & jig chính xác",
+          "client": "Vendor Samsung & dự án mới 2025",
+          "industry": "Điện tử di động",
+          "summary": "Camera decoration, mobile FR4 jig và camera jig phục vụ ứng dụng dung sai cao.",
+          "image": "/images/factory/cnc-products.webp",
+          "imageAlt": "CNC products – camera decoration, watch parts và mobile button/hinge",
+          "details": [
+            "Camera decoration – ATC MCT 4-spindle",
+            "Mobile FR4 jig – CNC line",
+            "Camera jig – chuẩn bị dự án 2025"
+          ]
+        },
+        {
+          "name": "Bolt & Screw Line",
+          "client": "Hanjung NCS, Coway, KNK Bridge Medi",
+          "industry": "Cơ khí / Y tế",
+          "summary": "Header, rolling, spring và CNC lathe cho chi tiết cơ khí nhỏ độ chính xác cao.",
+          "image": "/images/factory/casting-coating.webp",
+          "imageAlt": "Casting và coating line – die-casting và powder coating cho chi tiết kim loại",
+          "details": [
+            "Bolt, end-form, end-cap – Hanjung NCS",
+            "Linh kiện kim loại – Woong Jin Coway",
+            "Chi tiết y tế – KNK Bridge Medi"
+          ]
+        },
+        {
+          "name": "Tube & Extrusion products",
+          "client": "UUL, CAIS, Hansung LED, Novalight",
+          "industry": "Chiếu sáng / Công nghiệp",
+          "summary": "Plastic tube và aluminum extrusion 1200/600mm cho LED và ứng dụng công nghiệp.",
+          "image": "/images/factory/tube-line.webp",
+          "imageAlt": "Tube line – tube extrusion, mold making và 3D design/printer",
+          "details": [
+            "Plastic tube – PVC / TPE / TPU / PC / ABS / PP",
+            "LED 1200mm và 600mm",
+            "Extrusion mold + cooling mold + cutting jig"
+          ]
+        },
+        {
+          "name": "Film & Tape components",
+          "client": "EM-tech và đối tác điện tử",
+          "industry": "Điện tử tiêu dùng",
+          "summary": "AUDIO/DVD front panel, FPCB deco, LCD/LED panel deco và double-sided tape.",
+          "image": "/images/factory/film-tape.webp",
+          "imageAlt": "Film & Tape line – AUDIO/DVD front panel, FPCB deco và double-sided tape",
+          "details": ["AUDIO/DVD front panel deco", "FPCB & LCD/LED panel deco", "Insulation sheet, double-sided tape"]
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Khách hàng & đối tác đã làm việc cùng VP Global",
+      "description": "Phân loại theo ngành để bạn nhanh chóng đối chiếu kinh nghiệm dự án phù hợp với lĩnh vực của mình.",
+      "partnerCategories": [
+        {
+          "name": "Điện tử & 5G",
+          "partners": ["Samsung SDI", "AM Telecom (SK / KT)", "EM-tech"]
+        },
+        {
+          "name": "Năng lượng & công nghiệp",
+          "partners": ["Hanjung NCS", "Boca USA", "Seokwang Electric"]
+        },
+        {
+          "name": "Chiếu sáng & ứng dụng kỹ thuật",
+          "partners": ["TZ Hi-tech", "Hansung LED", "Novalight", "UUL", "CAIS"]
+        },
+        {
+          "name": "Tiêu dùng & y tế",
+          "partners": ["Woong Jin Coway", "KNK Bridge Medi"]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Liên hệ dự án",
+      "description": "Mẫu liên hệ ngắn giúp đội ngũ kỹ thuật nắm yêu cầu ban đầu và phản hồi nhanh hơn. Bạn có thể đính kèm dung sai, vật liệu và sản lượng kỳ vọng trong phần mô tả.",
+      "fields": {
+        "name": "Họ và tên",
+        "company": "Công ty",
+        "email": "Email công việc",
+        "requirements": "Mô tả yêu cầu kỹ thuật"
+      },
+      "placeholders": {
+        "requirements": "Loại linh kiện, vật liệu, dung sai, sản lượng dự kiến, lead-time mong muốn..."
+      },
+      "submit": "Gửi thông tin",
+      "disclaimer": "Thông tin gửi đi chỉ dùng cho mục đích liên hệ và đánh giá dự án.",
+      "responseTime": "Ưu tiên phản hồi trong 24 giờ làm việc.",
+      "contactInfoTitle": "Văn phòng Việt Nam",
+      "contactInfo": [
+        "Đầu mối: Ms. Thuong",
+        "Hotline: 0972 011 307",
+        "Email: vpglobal0201@gmail.com",
+        "Địa chỉ: Hap Linh Industrial Cluster, Bac Ninh, Vietnam"
+      ],
+      "ceoLabel": "Tổng giám đốc",
+      "ceoValue": "Mr. Jo Sung Woo · +84 903 439 318",
+      "scheduleBox": {
+        "title": "Khung giờ & ngôn ngữ hỗ trợ",
+        "items": [
+          { "label": "Giờ hỗ trợ", "value": "Mon – Sat · 8:00–17:00 (UTC+7)" },
+          { "label": "Ngôn ngữ", "value": "Tiếng Việt · 한국어 · English" },
+          { "label": "Phương thức", "value": "Email · Phone · Online meeting" }
+        ]
+      }
+    }
+  }
+}

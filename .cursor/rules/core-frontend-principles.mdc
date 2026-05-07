@@ -1,0 +1,29 @@
+---
+description: Nguyên tắc frontend cốt lõi cho toàn dự án VP Global landing
+alwaysApply: true
+---
+
+# Core Frontend Principles
+
+## Purpose
+- Đảm bảo toàn bộ quyết định kỹ thuật bám mục tiêu business B2B, SEO, performance và khả năng mở rộng.
+
+## Requirements
+- Ưu tiên kiến trúc reusable và content-driven.
+- Ưu tiên server-first theo App Router.
+- Mọi phần tử UI phải có mục tiêu UX rõ ràng.
+
+## Constraints
+- Không generate code trái với planning đã duyệt.
+- Không hardcode text, màu, spacing và layout.
+- Không sao chép nguyên mẫu design tham chiếu.
+
+## Best practices
+- Triển khai theo phase, kiểm tra chất lượng sau mỗi phase.
+- Tách concerns: content, presentation, behavior.
+- Đặt chuẩn review theo SEO, a11y, responsive ngay từ đầu.
+
+## Bad practices
+- Thêm tính năng không có mục tiêu chuyển đổi rõ.
+- Gộp business logic vào component trình bày.
+- Dùng workaround nhanh làm tăng technical debt.

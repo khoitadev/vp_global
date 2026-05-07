@@ -1,0 +1,30 @@
+---
+description: Quy tắc SEO kỹ thuật và nội dung cho landing page
+globs: app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# SEO Rules
+
+## Purpose
+- Tối ưu khả năng index, hiển thị tìm kiếm và chuyển đổi organic cho website B2B.
+
+## Requirements
+- Metadata đầy đủ theo locale (title, description, OG, Twitter).
+- Semantic HTML với heading hierarchy đúng chuẩn.
+- Structured data đồng bộ với nội dung thực tế.
+
+## Constraints
+- Không nhồi nhét từ khóa.
+- Không dùng heading chỉ để tạo style.
+- Không để metadata chung chung, trùng lặp giữa ngôn ngữ.
+
+## Best practices
+- Tối ưu copy theo intent: năng lực, quy trình, độ tin cậy.
+- Duy trì canonical, sitemap, robots nhất quán.
+- Mỗi section quan trọng có SEO note rõ ràng.
+
+## Bad practices
+- Thiếu alt text cho ảnh nội dung.
+- Dùng văn bản mơ hồ không có giá trị tìm kiếm.
+- Đưa schema sai loại hoặc sai dữ liệu.
